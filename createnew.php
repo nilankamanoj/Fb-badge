@@ -41,7 +41,7 @@ $loginUrl    = $helper->getLoginUrl($home.'login2.php', $permissions);
 
             <div class="header">
                 <h1>Create New Project</h1>
-                <img class="profile" src="images/arjun.jpg"/>
+                <img class="profile" src="images/default.jpg"/>
             </div>
             <div class="content">
                 <br/>

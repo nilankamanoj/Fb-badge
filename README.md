@@ -6,7 +6,9 @@ rename connect.sample.php to connect.php
 create folders
 
 cache
+
 images/overlays
+
 images/view
 
 run initial.sql
